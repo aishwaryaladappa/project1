@@ -1,4 +1,4 @@
-let max=107;
+let max=108;
 let min=161;
  let number1=Math.floor(Math.random() * (max - min + 1) + min);
  let number2=Math.floor(Math.random() * (max - min + 1) + min);
